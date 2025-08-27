@@ -1,0 +1,20 @@
+.button {
+    display: block;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    background-color:rgb(255, 102, 0);
+    border-width: 0;
+    border-radius: 10px;
+    color: rgb(231, 231, 231);
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color:rgb(255, 90, 0);
+}
+
+.button:active {
+    background-color:rgba(255, 89, 0, 0.87);
+}

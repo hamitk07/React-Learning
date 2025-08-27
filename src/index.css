@@ -1,0 +1,32 @@
+.body {
+  background-color: aquamarine;
+}
+
+.card {
+  background-color: rgb(0, 3, 103);
+  color: aliceblue;
+  padding:30px 20px;
+  border-radius: 10px;
+  font-family:'Segoe UI', Tahoma, Verdana, sans-serif ;
+  box-shadow: 5px 5px 10px rgba(0, 3, 103, 0.5);
+  margin: 10px;
+  max-width: 250px;
+  min-width: 200px;
+  display: inline-block;
+  text-align: center;
+}
+
+.card-img {
+  margin: 0px;
+  width: 30%;
+  height: auto;
+}
+
+.card-h2 {
+  font-size: xx-large;
+  margin: 10px 0px;
+}
+
+.card-p {
+  font-size: large;
+}
